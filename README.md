@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushraz
 - 👀 I’m interested in Python, Java, C++
-- 🌱 I’m currently learning Python, Java
+- 🌱 I’m currently learning Python, Java, C++
 - 💞️ I’m looking to collaborate on Programming Projects
 - 📫 How to reach me email me: piyush.razdan@gmail.com
 
