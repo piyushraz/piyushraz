@@ -10,8 +10,7 @@
 
 🛠️ Tech Stack:
 - 💻 Languages: [Python, Java, C, HTML/CSS, JavaScript/TypeScript, SQL, RStudio, Shell, Assembly, YAML, Racket, Haskell]
-- 📊 Data & Algorithms: [Git/GitHub, Terraform, REST & Postman API, CI/CD Pipeline, ArcMap, ArcGIS, LaTeX, JavaFX, FileIO, Design Patterns]
-- 🔧 Tools: [List your preferred development tools]
+- 🔧 Tools: [Git/GitHub, Terraform, REST & Postman API, CI/CD Pipeline, ArcMap, ArcGIS, LaTeX]
 
 🌟 Open to collaborations and always excited to work on innovative projects. Let's connect and create something amazing together!
 
