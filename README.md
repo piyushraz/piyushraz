@@ -19,6 +19,3 @@
 
 📚 Always expanding my knowledge, being versatile, adapting to changes. In the world of technology, the journey never ends.
 
-🌐 Check out my latest projects and contributions below. ⬇️
-https://github.com/piyushraz/RainMan
-
