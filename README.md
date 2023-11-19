@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Piyush!
-- 👀 I’m interested in Python, Java, C
-- 🌱 I’m currently learning Python, Java, C
-- 💞️ I’m looking to collaborate on Hackathons!
-- 📫 How to reach me email me: piyush.razdan@gmail.com
+### 👨‍💻 Piyush Razdan
 
-<!---
-piyushraz/piyushraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student | 🌟 Developing -> Developer | 🚀 Learning Never Stops
+
+🌐 Ideas...Design...Develop...Test...Release...Maintain...Recurse...
+
+🔍 Passionate about software development, algorithms, and all things tech.
+
+🌱 Currently sharpening my skills and knowledge as a computer science student, and working towards becoming a skilled developer.
+
+🛠️ Tech Stack:
+- 💻 Languages: [Python, Java, C, HTML/CSS, JavaScript/TypeScript, SQL, RStudio, Shell, Assembly, YAML, Racket, Haskell]
+- 📊 Data & Algorithms: [Git/GitHub, Terraform, REST & Postman API, CI/CD Pipeline, ArcMap, ArcGIS, LaTeX, JavaFX, FileIO, Design Patterns]
+- 🔧 Tools: [List your preferred development tools]
+
+🌟 Open to collaborations and always excited to work on innovative projects. Let's connect and create something amazing together!
+
+📬 Reach me via [LinkedIn](https://www.linkedin.com/in/piyushrazdan/) or [Email](piyush.razdan@gmail.com).
+
+📚 Always expanding my knowledge, being versatile, adapting to changes. In the world of technology, the journey never ends.
+
+🌐 Check out my latest projects and contributions below. ⬇️
+
