@@ -1,8 +1,6 @@
 ### 👨‍💻 Piyush Razdan
 
-🎓 Computer Science Student | 🌟 Developing -> Developer | 🚀 Learning Never Stops
-
-Currently focusing MERN Stack 
+🎓 Computer Science Student | 🌟 Developing -> Developer | 🚀 Learning Never Stops | Focusing MERN Stack 📚
 
 🌐 Ideas...Design...Develop...Test...Release...Maintain...Recurse...
 
