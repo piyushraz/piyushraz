@@ -2,6 +2,8 @@
 
 🎓 Computer Science Student | 🌟 Developing -> Developer | 🚀 Learning Never Stops
 
+Currently focusing MERN Stack 
+
 🌐 Ideas...Design...Develop...Test...Release...Maintain...Recurse...
 
 🔍 Passionate about software development, algorithms, and all things tech.
