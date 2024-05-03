@@ -1,6 +1,6 @@
 ### 👨‍💻 Piyush Razdan
 
-🎓 Computer Science Student | 🌟 Developing -> Developer | 🚀 Learning Never Stops | Focusing MERN Stack 📚
+🎓 Computer Science and Geographic Information SYstems | Developer & Engineer
 
 🌐 Ideas...Design...Develop...Test...Release...Maintain...Recurse...
 
@@ -9,8 +9,11 @@
 🌱 Currently sharpening my skills and knowledge as a computer science student, and working towards becoming a skilled developer.
 
 🛠️ Tech Stack:
-- 💻 Languages: Python, Java, C, HTML/CSS, JavaScript/TypeScript, SQL, RStudio, Shell, Assembly, YAML, Racket, Haskell
-- 🔧 Tools: Git/GitHub, Terraform, REST & Postman API, CI/CD Pipeline, ArcMap, ArcGIS, LaTeX
+- Languages: Assembly, C, Haskell, HTML/CSS, Java, JavaScript/TypeScript, PHP, Python, Racket, Shell, YAML
+- Tools: ArcGIS, ArcMap, CI/CD Pipeline, Erdas, GitHub, LaTeX, Postman API, REST, Sockets, Terraform
+- Frameworks: Ajax, Carto, Express, FortiWeb, JavaFX, jQuery, Node.js, React
+- Databases: MongoDB, MySQL, PostgreSQL
+- Miscellaneous: AWS, Azure, Google Cloud, Eclipse, Linux, MS Office, Power BI, PyCharm, Sony Vegas, VS Code
 
 🌟 Open to collaborations and always excited to work on innovative projects. Let's connect and create something amazing together!
 
