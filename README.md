@@ -14,6 +14,7 @@
 - Frameworks: Ajax, Carto, Express, FortiWeb, JavaFX, jQuery, Node.js, React
 - Databases: MongoDB, MySQL, PostgreSQL
 - Miscellaneous: AWS, Azure, Google Cloud, Eclipse, Linux, MS Office, Power BI, PyCharm, Sony Vegas, VS Code
+- Favourite: MERN STACK!
 
 🌟 Open to collaborations and always excited to work on innovative projects. Let's connect and create something amazing together!
 
