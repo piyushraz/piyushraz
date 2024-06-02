@@ -6,7 +6,7 @@
 
 🔍 Passionate about software development, algorithms, and all things tech.
 
-🌱 Currently sharpening my skills and knowledge as a computer science student, and working towards becoming a skilled developer.
+🌱 Currently sharpening my skills and knowledge as a computer science student, and working towards becoming a software engineer | developer.
 
 🛠️ Tech Stack:
 - Languages: Assembly, C, Haskell, HTML/CSS, Java, JavaScript/TypeScript, PHP, Python, Racket, Shell, YAML
