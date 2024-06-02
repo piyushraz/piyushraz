@@ -1,6 +1,6 @@
 ### 👨‍💻 Piyush Razdan
 
-🎓 Computer Science and Geographic Information Systems | Software Developer & Engineer
+🎓 Computer Science & Geographic Information Systems | En Route: Software Engineer
 
 🌐 Ideas...Design...Develop...Test...Release...Maintain...Recurse...
 
