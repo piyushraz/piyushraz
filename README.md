@@ -20,5 +20,5 @@
 
 📬 Reach me via [LinkedIn](https://www.linkedin.com/in/piyushrazdan/) or [Email](piyush.razdan@gmail.com).
 
-📚 Always expanding my knowledge, being versatile, adapting to changes. In the world of technology, the journey never ends.
+📚 Always expanding my knowledge and experience. In the world of technology, the journey never stops.
 
