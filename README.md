@@ -1,6 +1,6 @@
 ### 👨‍💻 Piyush Razdan
 
-🎓 Computer Science & Geographic Information Systems | En Route: Software Engineer
+🎓 Computer Science & Geographic Information Systems | Interests: Software Engineer & Developer 
 
 🌐 Ideas...Design...Develop...Test...Release...Maintain...Recurse...
 
@@ -14,7 +14,7 @@
 - Frameworks: Ajax, Carto, Express, FortiWeb, JavaFX, jQuery, Node.js, React
 - Databases: MongoDB, MySQL, PostgreSQL
 - Miscellaneous: AWS, Azure, Google Cloud, Eclipse, Linux, MS Office, Power BI, PyCharm, Sony Vegas, VS Code
-- Favourite: MERN STACK!
+- Favourite: MERN
 
 🌟 Open to collaborations and always excited to work on innovative projects. Let's connect and create something amazing together!
 
