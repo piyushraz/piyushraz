@@ -19,5 +19,5 @@
 
 📬 Reach me via [LinkedIn](https://www.linkedin.com/in/piyushrazdan/) or [Email](piyush.razdan@gmail.com) or [Website](https://piyushraz.github.io/portfolio/).
 
-📚 Always expanding my knowledge and experience. In the world of technology, the journey never stops.
+📚 Always expanding my knowledge and experience. In the world of technology, the journey is endless.
 
